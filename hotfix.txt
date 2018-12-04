@@ -1,1 +1,0 @@
-Arreglado fallo al navegar al detalle del cliente
